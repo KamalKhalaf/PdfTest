@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Kamal.Farghali/PdfTest/app/src/main/res/layout/activity_main.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/Kamal.Farghali/PdfTest/app/src/main/res/menu/menu_pdf_editor.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Kamal.Farghali/PdfTest/app/src/main/res/menu/menu_pdf_viewer.xml" value="0.19114583333333332" />
         <entry key="..\:/Users/Kamal.Farghali/PdfTest/pdfcreator/src/main/res/drawable/layout_rounded_corner.xml" value="0.20729166666666668" />
         <entry key="..\:/Users/Kamal.Farghali/PdfTest/pdfcreator/src/main/res/layout/activity_pdf_viewer.xml" value="0.18931159420289856" />
         <entry key="..\:/Users/Kamal.Farghali/PdfTest/pdfcreator/src/main/res/layout/activity_pdfcreator.xml" value="0.18931159420289856" />

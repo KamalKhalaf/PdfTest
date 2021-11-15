@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PdfTest</string>
+    <string name="text_create_test_pdf">Create Test Pdf</string>
+    <string name="text_print">Print</string>
+    <string name="text_share">Share</string>
+    <string name="text_generated_file_error">Generated File is null or does not exist!</string>
 </resources>
